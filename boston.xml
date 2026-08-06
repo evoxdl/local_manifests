@@ -15,13 +15,13 @@
 
 <project
     path="vendor/motorola/sm6450-common"
-    name="evoxdl/proprietary_vendor_motorola_sm6450-commonn"
+    name="evoxdl/proprietary_vendor_motorola_sm6450-common"
     remote="github"
     revision="lineage-23.2" />
 
 <project
     path="vendor/motorola/boston"
-    name="evoxdl/boston_vendor"
+    name="evoxdl/proprietary_vendor_motorola_boston"
     remote="github"
     revision="lineage-23.2" />
 	
